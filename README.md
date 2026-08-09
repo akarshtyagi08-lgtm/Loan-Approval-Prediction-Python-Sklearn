@@ -30,3 +30,13 @@ F1-Score:
 Approved Loans (0): 0.98
 Rejected Loans (1): 0.97
 ```
+
+# Libraries/Modules used in this project
+
+1. numpy
+2. pandas
+3. matplotlib
+4. seaborn
+5. sklearn (Scikit-learn)
+
+Note: You don't need **matplotlib** and **seaborn** as they were used for visualization, which is already done.
